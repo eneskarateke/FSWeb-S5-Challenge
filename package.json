@@ -37,7 +37,7 @@
     "type": "git",
     "url": "git+https://github.com/Workintech/FSWeb-S5-Challenge.git"
   },
-  "jest":{
+  "jest": {
     "testEnvironment": "jsdom"
   }
 }
